@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PlatoSys
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python/React/Next/Databases
 - 🌱 I’m currently learning Clouds
 - 💞️ I’m looking to collaborate on ML Project
 - 📫 How to reach me platoniinjgia@gmail.com
