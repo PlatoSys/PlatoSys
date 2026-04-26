@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Platoni
-- 👀 I’m interested in Python/React/Next/Databases
-- 🌱 I’m currently learning Clouds
-- 💞️ I’m looking to collaborate on ML Project
+- 👀 I’m interested in Distributed Systems / AI / Cloud / High-Scale Architectures
+- 🌱 I’m currently deepening expertise in Cloud, System Design, and AI/LLM integrations
+- 💞️ I’m looking to collaborate on AI/ML, Fintech, and Scalable Backend Projects
 - 📫 How to reach me platoniinjgia@gmail.com
 
 <!---
